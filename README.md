@@ -1,11 +1,14 @@
 # 毕业设计系统-住房公积金管理系统
 
-![登陆界面](https://www.skywalking.pro/download/images/housing-fund-platform/WX20230128-102157@2x.png "登陆界面.png")
+![登陆界面](https://www.skywalking.pro/download/images/housing-fund-platform/WX20230418-101011@2x.png "登陆界面.png")
 
 ####  **联系作者** 
 
+
+![联系作者](https://skywalking.pro/download/platform/main-platform.png "联系作者.png")
+
  **这是作者的微信二维码，如需本项目源代码，可扫码联系联系作者。**  
- **   17001380020 微信同号**  
+ **17001380020 微信同号**  
 
 ![微信二维码-1](https://singer-coder-public.oss-cn-chengdu.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81-1.png?x-oss-process=image/resize,p_50 "微信二维码-1.png")
 
@@ -22,7 +25,7 @@
  #### 后台管理系统功能点
 |功能点   | 描述  | 备注   |
 | :------------: | :------------: | :------------: |
-|  权限管理 | 管理系统具备的菜单和按钮权限  | 属于RBAC权限一部分  |
+|  权限管理 | 管理系统具备的菜单和按钮权限  | 不同用户登陆系统，功能不同 |
 |  系统用户管理 | 管理系统的各种用户  | 属于RBAC权限一部分  |
 |  系统角色管理 | 管理系统的各种角色（进行权限控制）  | 属于RBAC权限一部分  |
 |  单位账户管理 | 管理单位公积金账户  | 账户开户等功能也包含在这里面  |
@@ -68,7 +71,7 @@
 #### 微信号: SkywalkingPro
 #### 管理系统后端演示地址:
 ```
-登录地址: https://www.skywalking.pro/housing-fund-platform
+登录地址: https://www.skywalking.pro/housing-fund
 登录账号: admin
 登录密码: 123456
 ```
@@ -125,7 +128,7 @@
 #### 系统登陆
 - 登陆界面
 
-![登陆界面](https://www.skywalking.pro/download/images/housing-fund-platform/WX20230128-102157@2x.png "登陆界面.png")
+![登陆界面](https://www.skywalking.pro/download/images/housing-fund-platform/WX20230418-101011@2x.png "登陆界面.png")
 
 ![主页图表](https://www.skywalking.pro/download/images/housing-fund-platform/WX20230128-112702@2x.png "主页图表.png")
 
@@ -241,7 +244,7 @@
 
 #### 演示地址
 ```
-登录地址: https://www.skywalking.pro/housing-fund-platform
+登录地址: https://www.skywalking.pro/housing-fund
 登录账号: admin
 登录密码: 123456
 ```
