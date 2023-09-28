@@ -1,4 +1,4 @@
-# 毕业设计系统-住房公积金管理系统
+# 基于Java-VUE-SpringBoot-MySQL的毕业设计系统-住房公积金管理系统
 
 ![登陆界面](https://www.skywalking.pro/download/images/housing-fund-platform/WX20230418-101011@2x.png "登陆界面.png")
 
